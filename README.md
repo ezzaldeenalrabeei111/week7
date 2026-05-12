@@ -40,7 +40,7 @@ The `Reports` folder contains documents I prepared to summarize my learning jour
 ## 🚀 How to Run
 1. Ensure you have **.NET 10 SDK** and **SQL Server 2022** installed.
 2. Update the **Connection String** in the Context files to match your local SQL Server instance name.
-3. Open the `.sln` (Solution) file for each project using Visual Studio 2022.
+3. Open the `.sln` (Solution) file for each project using Visual Studio 2026.
 4. Press **Start**; the application will automatically create the database and tables upon its first run.
 
 ---
